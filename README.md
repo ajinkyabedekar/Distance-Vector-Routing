@@ -21,3 +21,5 @@ The repository consists of the following:
 2. TCL scripts for Distance Vector Routing, connecting two nodes, and Ring Topology
 
 3. .nam and .tr files that are generated as output
+
+One must install ns2 in the system in order to simulate the scripts.
